@@ -1,6 +1,3 @@
-Here’s a full GitHub-style profile `README.md` for **Hemil Desai**, modeled after your format, using information extracted from his resume:
-
-```markdown
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hemil Desai
 
 <div align="left">
@@ -83,6 +80,3 @@ I'm a dedicated Information Technology student at **CHARUSAT University**, curre
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hemil_Desai/)
 
 ---
-```
-
-Let me know if you'd like a version of this with emojis, markdown download, or personalization for job applications!
